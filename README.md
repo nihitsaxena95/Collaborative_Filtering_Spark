@@ -1,4 +1,4 @@
-# Collaborative filtrating recommendation system with Spark Scala
+# Collaborative filtering recommendation system with Spark Scala
 
 ## Introduction
 This repository is a reference code for blog [Collaborative Filtering Recommendation System with Apache Spark using Scala](https://medium.com/@nihitextra/collaborative-filtering-recommendation-system-with-apache-spark-using-scala-9a68e02e814d)
